@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "はーどもーどかのじょ",
   "base_artist": "nyamura",
-  "createdAt": "2026-04-01T07:14:41.683700Z",
+  "createdAt": "2026-04-01T07:35:12.261207Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -19,6 +19,15 @@
       "artist": "nyamura",
       "has_synced": false,
       "path": "select/localdb_01_はーどもーどかのじょ_nyamura.txt",
+      "repo_name": "gY_Br1pPtfo"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "はーどもーどかのじょ",
+      "artist": "nyamura",
+      "has_synced": false,
+      "path": "select/localdb_02_はーどもーどかのじょ_nyamura.txt",
       "repo_name": "qV0fHkaQ6Zw"
     }
   ]
